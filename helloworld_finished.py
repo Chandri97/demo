@@ -9,3 +9,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+print("this is the changes being made outside the function, so this should run")
